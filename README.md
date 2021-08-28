@@ -1,1 +1,2 @@
-# SampleRepository
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
